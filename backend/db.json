@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "title": "Buy groceries",
+      "status": "Pending",
+      "id": 1
+    },
+    {
+      "title": "Pay electricity bill",
+      "status": "Pending",
+      "id": 2
+    }
+  ]
+}
